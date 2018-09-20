@@ -48,10 +48,10 @@ Sample Output:
 16 Saint_Mary_Falls Montana 1020                                                                                                                                    
 17 Ceader_Terrace Montana 1100
 
-2. Task 2: 
-Random Number: 5
-Deleted Key is: 5
-After the deletion, results are: 
+2. Task 2:                                                                                                                                                 
+Random Number: 5                                                                                                                                           
+Deleted Key is: 5                                                                                                                                             
+After the deletion, results are:                                                                                                                                
 1 Bow_Falls Banff 200                                                                                                                                    
 2 Troll_Falls Kananaskis 150                                                                                                                          
 3 Johnston_Canyon Banff 195                                                                                                                              
